@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #4abdac;
+}
+
+.jumbotron {
+    font-family: 'Oswald', sans-serif;
+    color: #b82601;
+    background-color: #f7b733;
+}
+
+#student-name {
+    color: #b82601;
+}
+
+#student-email {
+    color: #b82601;
+}
+
+#comments {
+    color: #b82601;
+}

@@ -1,0 +1,20 @@
+
+#test-only {
+    font: bold;
+    color: white;
+    font-size: 24px;
+    border: 2px blue solid;
+    padding: 2px;
+    margin: 5px;
+    background-color: green;
+}
+
+#real-alert {
+    font: bold;
+    color: black;
+    font-size: 24px;
+    border: 2px darkorange solid;
+    padding: 2px;
+    margin: 5px;
+    background-color: red;
+}

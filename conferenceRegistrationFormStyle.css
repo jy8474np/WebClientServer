@@ -1,0 +1,11 @@
+
+body {
+    font-family: 'Lato', sans-serif;
+    color: #b82601;
+    background-color: -webkit-linear-gradient (#336666, #66cccc);
+}
+
+h1 {
+    color: #b82601;
+    font-size: 24px;
+}
